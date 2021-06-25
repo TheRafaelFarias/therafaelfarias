@@ -3,9 +3,6 @@
 ### About Me
 Hello, my name is Rafael Farias I am Brazilian, and as a developer since 2018 I know that to have a good project it needs to use a good stack that is why chose to work with Mobile and Web Development using the React/React Native stack. 
 
-### Studing <br />
-Kotlin and Android Native Development<br/>
-
 ### Contacts
 
 <div style="display: flex">
