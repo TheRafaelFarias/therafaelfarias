@@ -15,6 +15,7 @@ My name is Rafael Farias, I'm 14 years old developing since 2018.
   ![Webstorm](https://img.shields.io/badge/Webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=blue)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-215959?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia)
+  ![Hyper](https://img.shields.io/badge/-Hyper-000000?style=for-the-badge&logo=hyper)
   
 ### 🤯 Learning
 
