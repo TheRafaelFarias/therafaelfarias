@@ -1,18 +1,30 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=therafaelfarias&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-### About Me
-Hello, my name is Rafael Farias I am Brazilian, and as a developer since 2018 I know that to have a good project it needs to use a good stack that is why chose to work with Mobile and Web Development using the React/React Native stack. 
+My name is Rafael Farias, I'm 14 years old developing since 2018.
 
-### Contacts
+### 📋 Technologies:
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React%20-%2302569B.svg?&style=for-the-badge&logo=React&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React%20Native-%2302569B.svg?&style=for-the-badge&logo=React&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+  
+### 🚀 Tools
 
-<div style="display: flex">
-  <a href="mailto:rafaelfarias@zohomail.com">
-  <img src="https://img.shields.io/badge/-Mail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" />
-</a>
-  <a href="https://www.linkedin.com/in/rafael-farias-856898193/">
-   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" />
-</a>
-</div>
+  ![Webstorm](https://img.shields.io/badge/Webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=blue)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-215959?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia)
+  
+### 🤯 Learning
 
-</p>
-<hr>
+![Kotlin](https://img.shields.io/badge/-Kotlin-3366cc?style=for-the-badge&logo=kotlin)
+
+### 💬 Contact
+</br><img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+<string>Rafael Farias#00001</string>
+
+
+### Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=therafaelfarias&theme=ayu-mirage)](https://git.io/streak-stats)
+[![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=therafaelfarias&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/therafaelfarias/)
