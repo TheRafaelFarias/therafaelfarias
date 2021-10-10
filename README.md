@@ -23,7 +23,7 @@ My name is Rafael Farias, I'm 14 years old developing since 2018.
 
 ### 💬 Contact
 </br><img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-<string>Rafael Farias#00001</string>
+<string>Rafael Farias#5619</string>
 
 
 ### Stats
