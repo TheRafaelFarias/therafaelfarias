@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Rafael Farias, I'm 14 years old developing since 2018.
+My name is Rafael Farias, I'm 15 years old developing since 2018.
 
 ### 📋 Technologies:
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
